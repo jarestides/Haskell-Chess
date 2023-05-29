@@ -1,1 +1,1 @@
-# Haskell-Chess
+# Haskell Chess
